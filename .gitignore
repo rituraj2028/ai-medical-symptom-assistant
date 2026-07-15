@@ -1,0 +1,24 @@
+#python
+__pycache__/
+*.pyc
+*.pyo
+
+#Environment
+backend/.env
+
+#logs
+logs/
+
+#VS Code
+.vscode/
+
+#Node
+medical_ai-frontend/node_modules/
+
+#React build
+medical-ai-frontend/dist/
+
+#Python virtual environment
+venv/
+.venv/
+env/

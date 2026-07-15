@@ -1,0 +1,2265 @@
+{
+    "actinic keratosis": {
+        "description": "A rough, scaly patch on the skin caused by long-term exposure to ultraviolet (UV) radiation. It is considered a precancerous skin condition.",
+        "common_symptoms": [
+            "rough scaly patch",
+            "dry skin lesion",
+            "itching",
+            "burning sensation"
+        ],
+        "possible_causes": [
+            "prolonged sun exposure",
+            "ultraviolet radiation",
+            "fair skin",
+            "aging"
+        ],
+        "precautions": [
+            "Use sunscreen daily.",
+            "Wear protective clothing.",
+            "Avoid excessive sun exposure.",
+            "Have regular skin examinations."
+        ],
+        "recommended_specialist": "Dermatologist"
+    },
+    "acute bronchiolitis": {
+        "description": "A viral infection that causes inflammation of the small airways in the lungs, commonly affecting infants and young children.",
+        "common_symptoms": [
+            "cough",
+            "wheezing",
+            "difficulty breathing",
+            "fever"
+        ],
+        "possible_causes": [
+            "respiratory syncytial virus (RSV)",
+            "viral infection"
+        ],
+        "precautions": [
+            "Maintain good hand hygiene.",
+            "Avoid contact with sick individuals.",
+            "Keep the child hydrated.",
+            "Seek medical care if breathing worsens."
+        ],
+        "recommended_specialist": "Pediatrician"
+    },
+    "acute bronchitis": {
+        "description": "Inflammation of the bronchial tubes, usually caused by a viral infection.",
+        "common_symptoms": [
+            "persistent cough",
+            "mucus production",
+            "fatigue",
+            "mild fever"
+        ],
+        "possible_causes": [
+            "viral infection",
+            "smoking",
+            "air pollution"
+        ],
+        "precautions": [
+            "Drink plenty of fluids.",
+            "Get adequate rest.",
+            "Avoid smoking.",
+            "Consult a doctor if symptoms persist."
+        ],
+        "recommended_specialist": "Pulmonologist"
+    },
+    "acute bronchospasm": {
+        "description": "Sudden tightening of the muscles surrounding the airways, making breathing difficult.",
+        "common_symptoms": [
+            "shortness of breath",
+            "wheezing",
+            "chest tightness",
+            "cough"
+        ],
+        "possible_causes": [
+            "asthma",
+            "allergic reaction",
+            "respiratory infection",
+            "exercise"
+        ],
+        "precautions": [
+            "Avoid known triggers.",
+            "Carry prescribed inhalers.",
+            "Avoid smoking.",
+            "Follow asthma management plans."
+        ],
+        "recommended_specialist": "Pulmonologist"
+    },
+    "acute kidney injury": {
+        "description": "A sudden decline in kidney function leading to the accumulation of waste products in the body.",
+        "common_symptoms": [
+            "reduced urine output",
+            "swelling",
+            "fatigue",
+            "confusion"
+        ],
+        "possible_causes": [
+            "dehydration",
+            "severe infection",
+            "kidney damage",
+            "certain medications"
+        ],
+        "precautions": [
+            "Stay well hydrated.",
+            "Avoid unnecessary painkillers.",
+            "Manage chronic illnesses.",
+            "Seek immediate medical attention."
+        ],
+        "recommended_specialist": "Nephrologist"
+    },
+    "acute pancreatitis": {
+        "description": "Sudden inflammation of the pancreas that can range from mild to severe.",
+        "common_symptoms": [
+            "severe upper abdominal pain",
+            "nausea",
+            "vomiting",
+            "fever"
+        ],
+        "possible_causes": [
+            "gallstones",
+            "alcohol consumption",
+            "high triglycerides"
+        ],
+        "precautions": [
+            "Avoid alcohol.",
+            "Maintain a healthy diet.",
+            "Treat gallstones if present.",
+            "Seek emergency medical care."
+        ],
+        "recommended_specialist": "Gastroenterologist"
+    },
+    "acute sinusitis": {
+        "description": "Inflammation of the sinuses lasting less than four weeks, usually caused by a viral infection.",
+        "common_symptoms": [
+            "facial pain",
+            "nasal congestion",
+            "headache",
+            "thick nasal discharge"
+        ],
+        "possible_causes": [
+            "viral infection",
+            "bacterial infection",
+            "allergies"
+        ],
+        "precautions": [
+            "Stay hydrated.",
+            "Use saline nasal sprays.",
+            "Avoid allergens.",
+            "Get adequate rest."
+        ],
+        "recommended_specialist": "ENT Specialist"
+    },
+    "acute stress reaction": {
+        "description": "A temporary psychological response to a highly stressful or traumatic event.",
+        "common_symptoms": [
+            "anxiety",
+            "confusion",
+            "rapid heartbeat",
+            "difficulty concentrating"
+        ],
+        "possible_causes": [
+            "traumatic event",
+            "emotional shock",
+            "major accident"
+        ],
+        "precautions": [
+            "Seek emotional support.",
+            "Practice relaxation techniques.",
+            "Get adequate sleep.",
+            "Consult a mental health professional if symptoms persist."
+        ],
+        "recommended_specialist": "Psychiatrist"
+    },
+    "allergy": {
+        "description": "An exaggerated immune response to normally harmless substances called allergens.",
+        "common_symptoms": [
+            "sneezing",
+            "itching",
+            "rash",
+            "watery eyes"
+        ],
+        "possible_causes": [
+            "pollen",
+            "dust mites",
+            "certain foods",
+            "animal dander"
+        ],
+        "precautions": [
+            "Avoid known allergens.",
+            "Keep surroundings clean.",
+            "Take prescribed antihistamines.",
+            "Carry emergency medication if advised."
+        ],
+        "recommended_specialist": "Allergist"
+    },
+    "angina": {
+        "description": "Chest pain caused by reduced blood flow to the heart muscle.",
+        "common_symptoms": [
+            "chest pain",
+            "shortness of breath",
+            "fatigue",
+            "pain radiating to the arm"
+        ],
+        "possible_causes": [
+            "coronary artery disease",
+            "high blood pressure",
+            "high cholesterol"
+        ],
+        "precautions": [
+            "Exercise regularly.",
+            "Eat a heart-healthy diet.",
+            "Avoid smoking.",
+            "Take prescribed medications."
+        ],
+        "recommended_specialist": "Cardiologist"
+    },
+    "anxiety": {
+        "description": "A mental health condition characterized by excessive worry, nervousness, or fear.",
+        "common_symptoms": [
+            "excessive worry",
+            "restlessness",
+            "rapid heartbeat",
+            "difficulty sleeping"
+        ],
+        "possible_causes": [
+            "stress",
+            "genetics",
+            "medical conditions",
+            "traumatic experiences"
+        ],
+        "precautions": [
+            "Practice stress management.",
+            "Exercise regularly.",
+            "Get enough sleep.",
+            "Seek counseling if needed."
+        ],
+        "recommended_specialist": "Psychiatrist"
+    },
+    "appendicitis": {
+        "description": "Inflammation of the appendix that usually requires urgent surgical treatment.",
+        "common_symptoms": [
+            "lower right abdominal pain",
+            "fever",
+            "loss of appetite",
+            "nausea"
+        ],
+        "possible_causes": [
+            "appendix blockage",
+            "infection"
+        ],
+        "precautions": [
+            "Seek immediate medical care.",
+            "Avoid self-medicating severe abdominal pain.",
+            "Follow postoperative instructions after surgery."
+        ],
+        "recommended_specialist": "General Surgeon"
+    },
+    "arthritis of the hip": {
+        "description": "Degeneration or inflammation of the hip joint causing pain and stiffness.",
+        "common_symptoms": [
+            "hip pain",
+            "joint stiffness",
+            "reduced mobility",
+            "limping"
+        ],
+        "possible_causes": [
+            "osteoarthritis",
+            "aging",
+            "joint injury"
+        ],
+        "precautions": [
+            "Maintain a healthy weight.",
+            "Exercise regularly.",
+            "Attend physical therapy.",
+            "Avoid excessive strain."
+        ],
+        "recommended_specialist": "Orthopedic Surgeon"
+    },
+    "asthma": {
+        "description": "A chronic condition in which the airways become inflamed and narrowed, causing breathing difficulties.",
+        "common_symptoms": [
+            "wheezing",
+            "shortness of breath",
+            "cough",
+            "chest tightness"
+        ],
+        "possible_causes": [
+            "genetics",
+            "allergies",
+            "air pollution",
+            "respiratory infections"
+        ],
+        "precautions": [
+            "Avoid known triggers.",
+            "Carry rescue inhalers.",
+            "Take prescribed medications.",
+            "Monitor symptoms regularly."
+        ],
+        "recommended_specialist": "Pulmonologist"
+    },
+    "benign prostatic hyperplasia (bph)": {
+        "description": "Non-cancerous enlargement of the prostate gland commonly seen in older men.",
+        "common_symptoms": [
+            "frequent urination",
+            "weak urine stream",
+            "difficulty starting urination",
+            "nighttime urination"
+        ],
+        "possible_causes": [
+            "aging",
+            "hormonal changes"
+        ],
+        "precautions": [
+            "Limit fluids before bedtime.",
+            "Reduce caffeine intake.",
+            "Follow prescribed treatment.",
+            "Attend regular medical checkups."
+        ],
+        "recommended_specialist": "Urologist"
+    },
+    "blepharitis": {
+        "description": "Inflammation of the eyelids, often affecting the area where eyelashes grow.",
+        "common_symptoms": [
+            "red eyelids",
+            "itchy eyes",
+            "burning sensation",
+            "crusting around eyelashes"
+        ],
+        "possible_causes": [
+            "bacterial infection",
+            "skin conditions",
+            "blocked oil glands"
+        ],
+        "precautions": [
+            "Maintain eyelid hygiene.",
+            "Avoid rubbing the eyes.",
+            "Use prescribed eye medications.",
+            "Wash hands frequently."
+        ],
+        "recommended_specialist": "Ophthalmologist"
+    },
+    "brachial neuritis": {
+        "description": "Inflammation of the nerves in the shoulder region causing sudden pain and weakness.",
+        "common_symptoms": [
+            "shoulder pain",
+            "arm weakness",
+            "numbness",
+            "muscle wasting"
+        ],
+        "possible_causes": [
+            "viral infection",
+            "immune response",
+            "injury"
+        ],
+        "precautions": [
+            "Attend physical therapy.",
+            "Avoid overuse of the affected arm.",
+            "Take medications as prescribed."
+        ],
+        "recommended_specialist": "Neurologist"
+    },
+    "bursitis": {
+        "description": "Inflammation of the fluid-filled sacs that cushion joints.",
+        "common_symptoms": [
+            "joint pain",
+            "swelling",
+            "stiffness",
+            "tenderness"
+        ],
+        "possible_causes": [
+            "repetitive motion",
+            "injury",
+            "infection"
+        ],
+        "precautions": [
+            "Rest the affected joint.",
+            "Apply ice packs.",
+            "Avoid repetitive strain.",
+            "Perform recommended exercises."
+        ],
+        "recommended_specialist": "Orthopedic Surgeon"
+    },
+    "cholecystitis": {
+        "description": "Inflammation of the gallbladder, often caused by gallstones.",
+        "common_symptoms": [
+            "upper right abdominal pain",
+            "fever",
+            "nausea",
+            "vomiting"
+        ],
+        "possible_causes": [
+            "gallstones",
+            "bile duct blockage",
+            "infection"
+        ],
+        "precautions": [
+            "Follow a low-fat diet.",
+            "Seek prompt medical treatment.",
+            "Maintain a healthy weight."
+        ],
+        "recommended_specialist": "General Surgeon"
+    },
+    "chronic back pain": {
+        "description": "Persistent pain in the back lasting for more than three months.",
+        "common_symptoms": [
+            "persistent back pain",
+            "muscle stiffness",
+            "reduced flexibility",
+            "pain while standing"
+        ],
+        "possible_causes": [
+            "poor posture",
+            "degenerative spine disease",
+            "muscle strain",
+            "herniated disc"
+        ],
+        "precautions": [
+            "Maintain good posture.",
+            "Exercise regularly.",
+            "Lift heavy objects correctly.",
+            "Attend physical therapy."
+        ],
+        "recommended_specialist": "Orthopedic Surgeon"
+    },
+    "chronic constipation": {
+        "description": "A digestive condition characterized by infrequent bowel movements or difficulty passing stools for several weeks or longer.",
+        "common_symptoms": [
+            "infrequent bowel movements",
+            "hard or dry stools",
+            "straining during bowel movements",
+            "abdominal discomfort",
+            "feeling of incomplete evacuation"
+        ],
+        "possible_causes": [
+            "low-fiber diet",
+            "dehydration",
+            "lack of physical activity",
+            "certain medications",
+            "bowel disorders"
+        ],
+        "precautions": [
+            "Eat a high-fiber diet.",
+            "Drink plenty of water.",
+            "Exercise regularly.",
+            "Avoid delaying bowel movements."
+        ],
+        "recommended_specialist": "Gastroenterologist"
+    },
+    "chronic obstructive pulmonary disease (copd)": {
+        "description": "A chronic lung disease that causes airflow obstruction and breathing difficulties, most commonly due to smoking.",
+        "common_symptoms": [
+            "shortness of breath",
+            "chronic cough",
+            "wheezing",
+            "chest tightness",
+            "excess mucus production"
+        ],
+        "possible_causes": [
+            "cigarette smoking",
+            "long-term exposure to air pollutants",
+            "genetic factors",
+            "occupational dust and chemicals"
+        ],
+        "precautions": [
+            "Stop smoking.",
+            "Avoid exposure to pollutants.",
+            "Receive recommended vaccinations.",
+            "Take prescribed medications regularly."
+        ],
+        "recommended_specialist": "Pulmonologist"
+    },
+    "common cold": {
+        "description": "A mild viral infection affecting the nose and throat that usually resolves without specific treatment.",
+        "common_symptoms": [
+            "runny nose",
+            "sore throat",
+            "cough",
+            "sneezing",
+            "mild fever"
+        ],
+        "possible_causes": [
+            "rhinovirus infection",
+            "close contact with infected individuals",
+            "touching contaminated surfaces"
+        ],
+        "precautions": [
+            "Wash hands frequently.",
+            "Drink plenty of fluids.",
+            "Get adequate rest.",
+            "Cover your mouth while coughing or sneezing."
+        ],
+        "recommended_specialist": "General Physician"
+    },
+    "complex regional pain syndrome": {
+        "description": "A chronic pain condition that usually develops after an injury and causes severe, persistent pain in a limb.",
+        "common_symptoms": [
+            "burning pain",
+            "swelling",
+            "skin color changes",
+            "temperature changes in the affected limb",
+            "reduced mobility"
+        ],
+        "possible_causes": [
+            "nerve injury",
+            "fracture",
+            "surgery",
+            "trauma"
+        ],
+        "precautions": [
+            "Begin treatment early.",
+            "Attend physical therapy.",
+            "Take medications as prescribed.",
+            "Follow rehabilitation exercises."
+        ],
+        "recommended_specialist": "Neurologist"
+    },
+    "concussion": {
+        "description": "A mild traumatic brain injury caused by a blow or sudden movement of the head that temporarily affects brain function.",
+        "common_symptoms": [
+            "headache",
+            "dizziness",
+            "confusion",
+            "memory problems",
+            "nausea"
+        ],
+        "possible_causes": [
+            "sports injuries",
+            "falls",
+            "road traffic accidents",
+            "head trauma"
+        ],
+        "precautions": [
+            "Rest physically and mentally.",
+            "Avoid sports until medically cleared.",
+            "Seek medical evaluation.",
+            "Monitor for worsening symptoms."
+        ],
+        "recommended_specialist": "Neurologist"
+    },
+    "conjunctivitis": {
+        "description": "Inflammation of the conjunctiva, the thin transparent membrane covering the white part of the eye and inner eyelids. It may be caused by infections, allergies, or irritants.",
+        "common_symptoms": [
+            "red eyes",
+            "itchy eyes",
+            "watery eyes",
+            "eye discharge",
+            "burning sensation"
+        ],
+        "possible_causes": [
+            "viral infection",
+            "bacterial infection",
+            "allergic reaction",
+            "chemical irritants"
+        ],
+        "precautions": [
+            "Wash hands frequently.",
+            "Avoid touching or rubbing the eyes.",
+            "Do not share towels or eye cosmetics.",
+            "Follow prescribed eye treatment."
+        ],
+        "recommended_specialist": "Ophthalmologist"
+    },
+    "conjunctivitis due to allergy": {
+        "description": "An allergic inflammation of the conjunctiva triggered by allergens such as pollen, dust, or pet dander.",
+        "common_symptoms": [
+            "itchy eyes",
+            "red eyes",
+            "watery eyes",
+            "swollen eyelids",
+            "burning sensation"
+        ],
+        "possible_causes": [
+            "pollen",
+            "dust mites",
+            "pet dander",
+            "mold spores"
+        ],
+        "precautions": [
+            "Avoid known allergens.",
+            "Keep windows closed during high pollen seasons.",
+            "Use prescribed allergy eye drops.",
+            "Maintain good eye hygiene."
+        ],
+        "recommended_specialist": "Allergist"
+    },
+    "contact dermatitis": {
+        "description": "A skin condition caused by direct contact with an irritant or allergen, resulting in inflammation and irritation.",
+        "common_symptoms": [
+            "skin rash",
+            "itching",
+            "redness",
+            "swelling",
+            "dry or cracked skin"
+        ],
+        "possible_causes": [
+            "cosmetics",
+            "soaps",
+            "detergents",
+            "plants such as poison ivy",
+            "metals like nickel"
+        ],
+        "precautions": [
+            "Avoid known irritants or allergens.",
+            "Use protective gloves when needed.",
+            "Moisturize the skin regularly.",
+            "Use prescribed topical medications."
+        ],
+        "recommended_specialist": "Dermatologist"
+    },
+    "cornea infection": {
+        "description": "An infection of the cornea that can threaten vision if not treated promptly. It may be caused by bacteria, viruses, fungi, or parasites.",
+        "common_symptoms": [
+            "eye pain",
+            "red eye",
+            "blurred vision",
+            "light sensitivity",
+            "excessive tearing"
+        ],
+        "possible_causes": [
+            "bacterial infection",
+            "viral infection",
+            "fungal infection",
+            "improper contact lens use"
+        ],
+        "precautions": [
+            "Practice proper contact lens hygiene.",
+            "Avoid wearing damaged contact lenses.",
+            "Seek immediate medical attention for eye pain.",
+            "Follow prescribed eye medications."
+        ],
+        "recommended_specialist": "Ophthalmologist"
+    },
+    "croup": {
+        "description": "A viral respiratory illness that causes swelling of the upper airway, leading to a characteristic barking cough, primarily affecting young children.",
+        "common_symptoms": [
+            "barking cough",
+            "hoarse voice",
+            "noisy breathing",
+            "fever",
+            "difficulty breathing"
+        ],
+        "possible_causes": [
+            "parainfluenza virus",
+            "influenza virus",
+            "respiratory viral infections"
+        ],
+        "precautions": [
+            "Keep the child well hydrated.",
+            "Use a cool-mist humidifier if recommended.",
+            "Monitor breathing closely.",
+            "Seek emergency care if breathing becomes difficult."
+        ],
+        "recommended_specialist": "Pediatrician"
+    },
+    "cystitis": {
+        "description": "Inflammation of the urinary bladder, most commonly caused by a bacterial urinary tract infection.",
+        "common_symptoms": [
+            "burning sensation during urination",
+            "frequent urination",
+            "urgent need to urinate",
+            "lower abdominal pain",
+            "cloudy urine"
+        ],
+        "possible_causes": [
+            "bacterial infection",
+            "poor hygiene",
+            "urinary catheter use",
+            "bladder irritation"
+        ],
+        "precautions": [
+            "Drink plenty of water.",
+            "Maintain good personal hygiene.",
+            "Do not delay urination.",
+            "Complete prescribed antibiotics if advised by a doctor."
+        ],
+        "recommended_specialist": "Urologist"
+    },
+    "degenerative disc disease": {
+        "description": "A condition in which the spinal discs gradually wear down over time, leading to pain and reduced flexibility.",
+        "common_symptoms": [
+            "back pain",
+            "neck pain",
+            "stiffness",
+            "pain that worsens with movement",
+            "numbness or tingling in limbs"
+        ],
+        "possible_causes": [
+            "aging",
+            "disc degeneration",
+            "spinal injury",
+            "repetitive stress"
+        ],
+        "precautions": [
+            "Maintain good posture.",
+            "Exercise regularly.",
+            "Avoid lifting heavy objects improperly.",
+            "Attend physical therapy if recommended."
+        ],
+        "recommended_specialist": "Orthopedic Surgeon"
+    },
+    "dental caries": {
+        "description": "A common dental disease in which tooth enamel is damaged by acids produced by bacteria, leading to cavities.",
+        "common_symptoms": [
+            "toothache",
+            "tooth sensitivity",
+            "visible holes in teeth",
+            "pain while eating sweets",
+            "bad breath"
+        ],
+        "possible_causes": [
+            "poor oral hygiene",
+            "frequent sugary foods",
+            "plaque buildup",
+            "bacterial infection"
+        ],
+        "precautions": [
+            "Brush teeth twice daily.",
+            "Floss regularly.",
+            "Limit sugary foods and drinks.",
+            "Visit the dentist for routine check-ups."
+        ],
+        "recommended_specialist": "Dentist"
+    },
+    "depression": {
+        "description": "A common mental health disorder characterized by persistent sadness, loss of interest, and changes in thinking, behavior, and daily functioning.",
+        "common_symptoms": [
+            "persistent sadness",
+            "loss of interest",
+            "fatigue",
+            "difficulty concentrating",
+            "changes in sleep or appetite"
+        ],
+        "possible_causes": [
+            "genetic factors",
+            "stressful life events",
+            "chemical imbalance in the brain",
+            "chronic medical conditions"
+        ],
+        "precautions": [
+            "Seek professional mental health support.",
+            "Maintain regular physical activity.",
+            "Stay connected with family and friends.",
+            "Take prescribed medications as directed."
+        ],
+        "recommended_specialist": "Psychiatrist"
+    },
+    "developmental disability": {
+        "description": "A group of conditions that affect physical, learning, language, or behavioral development, usually beginning during childhood.",
+        "common_symptoms": [
+            "delayed milestones",
+            "learning difficulties",
+            "speech or language delays",
+            "difficulty with daily activities",
+            "social interaction challenges"
+        ],
+        "possible_causes": [
+            "genetic disorders",
+            "prenatal complications",
+            "birth complications",
+            "brain injury during early development"
+        ],
+        "precautions": [
+            "Attend regular developmental assessments.",
+            "Begin early intervention therapies.",
+            "Follow individualized educational plans.",
+            "Maintain regular medical follow-up."
+        ],
+        "recommended_specialist": "Developmental Pediatrician"
+    },
+    "diverticulitis": {
+        "description": "Diverticulitis is the inflammation or infection of small pouches (diverticula) that develop in the wall of the large intestine. It can cause abdominal pain and digestive problems.",
+        "common_symptoms": [
+            "lower left abdominal pain",
+            "fever",
+            "nausea",
+            "constipation",
+            "abdominal tenderness"
+        ],
+        "possible_causes": [
+            "infection of diverticula",
+            "low-fiber diet",
+            "aging",
+            "obesity"
+        ],
+        "precautions": [
+            "Eat a high-fiber diet after recovery.",
+            "Drink plenty of water.",
+            "Exercise regularly.",
+            "Follow prescribed antibiotics if needed."
+        ],
+        "recommended_specialist": "Gastroenterologist"
+    },
+    "drug reaction": {
+        "description": "A drug reaction is an unwanted response to a medication, ranging from mild skin rashes to severe allergic reactions.",
+        "common_symptoms": [
+            "skin rash",
+            "itching",
+            "swelling",
+            "difficulty breathing",
+            "fever"
+        ],
+        "possible_causes": [
+            "allergic reaction to medication",
+            "drug interactions",
+            "incorrect dosage",
+            "medication intolerance"
+        ],
+        "precautions": [
+            "Stop the medication only after consulting a healthcare provider unless it's an emergency.",
+            "Inform healthcare providers about known drug allergies.",
+            "Carry allergy information if you have severe reactions.",
+            "Seek immediate care for breathing difficulty or facial swelling."
+        ],
+        "recommended_specialist": "Allergist"
+    },
+    "ear drum damage": {
+        "description": "Damage or perforation of the eardrum can affect hearing and may occur due to infection, injury, or sudden pressure changes.",
+        "common_symptoms": [
+            "ear pain",
+            "hearing loss",
+            "ringing in the ear",
+            "ear discharge",
+            "dizziness"
+        ],
+        "possible_causes": [
+            "ear infection",
+            "loud noise",
+            "head injury",
+            "barotrauma"
+        ],
+        "precautions": [
+            "Keep the ear dry.",
+            "Avoid inserting objects into the ear.",
+            "Avoid swimming until healed.",
+            "Consult an ENT specialist promptly."
+        ],
+        "recommended_specialist": "ENT Specialist"
+    },
+    "eczema": {
+        "description": "Eczema, also known as atopic dermatitis, is a chronic skin condition that causes inflammation, itching, and dry skin.",
+        "common_symptoms": [
+            "itchy skin",
+            "dry skin",
+            "red patches",
+            "skin cracking",
+            "thickened skin"
+        ],
+        "possible_causes": [
+            "genetic predisposition",
+            "allergies",
+            "immune system dysfunction",
+            "environmental irritants"
+        ],
+        "precautions": [
+            "Moisturize the skin regularly.",
+            "Avoid harsh soaps and irritants.",
+            "Use prescribed creams as directed.",
+            "Avoid scratching affected areas."
+        ],
+        "recommended_specialist": "Dermatologist"
+    },
+    "esophagitis": {
+        "description": "Eczema, also known as atopic dermatitis, is a chronic skin condition that causes inflammation, itching, and dry skin.",
+        "common_symptoms": [
+            "painful swallowing",
+            "difficulty swallowing",
+            "chest pain",
+            "heartburn",
+            "sore throat"
+        ],
+        "possible_causes": [
+            "acid reflux (GERD)",
+            "infection",
+            "certain medications",
+            "food allergies"
+        ],
+        "precautions": [
+            "Avoid spicy and acidic foods.",
+            "Eat smaller meals.",
+            "Do not lie down immediately after eating.",
+            "Take prescribed acid-reducing medications."
+        ],
+        "recommended_specialist": "Gastroenterologist"
+    },
+    "eustachian tube dysfunction (ear disorder)": {
+        "description": "Eustachian tube dysfunction occurs when the tube connecting the middle ear to the back of the nose becomes blocked, causing pressure imbalance and hearing discomfort.",
+        "common_symptoms": [
+            "ear fullness",
+            "muffled hearing",
+            "ear pain",
+            "popping sensation in the ear",
+            "mild dizziness"
+        ],
+        "possible_causes": [
+            "common cold",
+            "allergies",
+            "sinus infection",
+            "changes in air pressure"
+        ],
+        "precautions": [
+            "Treat nasal allergies promptly.",
+            "Stay hydrated.",
+            "Avoid sudden pressure changes when possible.",
+            "Consult an ENT specialist if symptoms persist."
+        ],
+        "recommended_specialist": "ENT Specialist"
+    },
+    "fungal infection of the hair": {
+        "description": "A fungal infection of the scalp and hair follicles, commonly known as tinea capitis, causing hair loss and scalp irritation.",
+        "common_symptoms": [
+            "itchy scalp",
+            "hair loss",
+            "scaly patches",
+            "redness",
+            "broken hairs"
+        ],
+        "possible_causes": [
+            "dermatophyte fungi",
+            "close contact with infected individuals",
+            "sharing combs or hats",
+            "contact with infected animals"
+        ],
+        "precautions": [
+            "Maintain good scalp hygiene.",
+            "Avoid sharing personal grooming items.",
+            "Complete the full course of antifungal treatment.",
+            "Wash bedding and hats regularly."
+        ],
+        "recommended_specialist": "Dermatologist"
+    },
+    "gallstone": {
+        "description": "Gallstones are hardened deposits of digestive fluid that form in the gallbladder and may block the bile ducts.",
+        "common_symptoms": [
+            "right upper abdominal pain",
+            "nausea",
+            "vomiting",
+            "pain after fatty meals",
+            "back pain"
+        ],
+        "possible_causes": [
+            "high cholesterol in bile",
+            "excess bilirubin",
+            "obesity",
+            "rapid weight loss"
+        ],
+        "precautions": [
+            "Maintain a healthy weight.",
+            "Eat a balanced, low-fat diet.",
+            "Avoid rapid weight loss.",
+            "Seek medical care for severe abdominal pain."
+        ],
+        "recommended_specialist": "General Surgeon"
+    },
+    "gastrointestinal hemorrhage": {
+        "description": "Gastrointestinal hemorrhage refers to bleeding anywhere along the digestive tract and can range from mild to life-threatening.",
+        "common_symptoms": [
+            "vomiting blood",
+            "black stools",
+            "blood in stool",
+            "dizziness",
+            "weakness"
+        ],
+        "possible_causes": [
+            "stomach ulcers",
+            "gastritis",
+            "esophageal varices",
+            "diverticular disease"
+        ],
+        "precautions": [
+            "Seek immediate emergency medical care.",
+            "Avoid NSAIDs unless prescribed.",
+            "Follow treatment for underlying digestive conditions.",
+            "Attend follow-up evaluations."
+        ],
+        "recommended_specialist": "Gastroenterologist"
+    },
+    "gout": {
+        "description": "Gout is a form of inflammatory arthritis caused by the buildup of uric acid crystals in the joints.",
+        "common_symptoms": [
+            "sudden severe joint pain",
+            "joint swelling",
+            "redness",
+            "warmth over the joint",
+            "reduced joint movement"
+        ],
+        "possible_causes": [
+            "high uric acid levels",
+            "kidney disease",
+            "high-purine diet",
+            "genetic factors"
+        ],
+        "precautions": [
+            "Drink plenty of water.",
+            "Limit alcohol intake.",
+            "Reduce consumption of high-purine foods.",
+            "Take uric acid-lowering medications if prescribed."
+        ],
+        "recommended_specialist": "Rheumatologist"
+    },
+    "heart attack": {
+        "description": "A heart attack (myocardial infarction) occurs when blood flow to part of the heart muscle is blocked, causing damage to the heart tissue. It is a medical emergency.",
+        "common_symptoms": [
+            "chest pain or pressure",
+            "pain radiating to the arm, neck, jaw, or back",
+            "shortness of breath",
+            "cold sweat",
+            "nausea"
+        ],
+        "possible_causes": [
+            "coronary artery disease",
+            "blood clot",
+            "high cholesterol",
+            "high blood pressure",
+            "smoking"
+        ],
+        "precautions": [
+            "Seek emergency medical care immediately if symptoms occur.",
+            "Maintain a heart-healthy diet.",
+            "Exercise regularly as advised by a doctor.",
+            "Control blood pressure, diabetes, and cholesterol.",
+            "Avoid smoking."
+        ],
+        "recommended_specialist": "Cardiologist"
+    },
+    "heart failure": {
+        "description": "Heart failure is a chronic condition in which the heart cannot pump blood effectively to meet the body's needs.",
+        "common_symptoms": [
+            "shortness of breath",
+            "fatigue",
+            "swelling of legs or ankles",
+            "rapid heartbeat",
+            "persistent cough"
+        ],
+        "possible_causes": [
+            "coronary artery disease",
+            "high blood pressure",
+            "heart attack",
+            "heart valve disease"
+        ],
+        "precautions": [
+            "Take medications exactly as prescribed.",
+            "Limit salt intake.",
+            "Monitor daily weight.",
+            "Exercise according to medical advice.",
+            "Attend regular cardiology follow-ups."
+        ],
+        "recommended_specialist": "Cardiologist"
+    },
+    "hemorrhoids": {
+        "description": "Hemorrhoids are swollen veins in the lower rectum or anus that can cause discomfort, bleeding, and itching.",
+        "common_symptoms": [
+            "rectal bleeding",
+            "itching around the anus",
+            "pain during bowel movements",
+            "swelling around the anus",
+            "lump near the anus"
+        ],
+        "possible_causes": [
+            "chronic constipation",
+            "straining during bowel movements",
+            "pregnancy",
+            "obesity"
+        ],
+        "precautions": [
+            "Eat a high-fiber diet.",
+            "Drink plenty of water.",
+            "Avoid prolonged sitting on the toilet.",
+            "Exercise regularly."
+        ],
+        "recommended_specialist": "General Surgeon"
+    },
+    "herniated disk": {
+        "description": "A herniated disk occurs when the soft inner portion of a spinal disk pushes through its outer layer, irritating nearby nerves.",
+        "common_symptoms": [
+            "back pain",
+            "leg pain",
+            "numbness",
+            "tingling",
+            "muscle weakness"
+        ],
+        "possible_causes": [
+            "aging",
+            "heavy lifting",
+            "spinal injury",
+            "repetitive strain"
+        ],
+        "precautions": [
+            "Maintain proper posture.",
+            "Avoid lifting heavy objects incorrectly.",
+            "Perform back-strengthening exercises.",
+            "Follow physical therapy recommendations."
+        ],
+        "recommended_specialist": "Orthopedic Surgeon"
+    },
+    "hiatal hernia": {
+        "description": "A hiatal hernia occurs when part of the stomach pushes through the diaphragm into the chest, often leading to acid reflux symptoms.",
+        "common_symptoms": [
+            "heartburn",
+            "acid reflux",
+            "difficulty swallowing",
+            "chest discomfort",
+            "belching"
+        ],
+        "possible_causes": [
+            "weak diaphragm muscles",
+            "aging",
+            "obesity",
+            "increased abdominal pressure"
+        ],
+        "precautions": [
+            "Eat smaller meals.",
+            "Avoid lying down immediately after eating.",
+            "Maintain a healthy weight.",
+            "Limit spicy and fatty foods."
+        ],
+        "recommended_specialist": "Gastroenterologist"
+    },
+    "hyperemesis gravidarum": {
+        "description": "Hyperemesis gravidarum is a severe form of nausea and vomiting during pregnancy that can lead to dehydration, weight loss, and electrolyte imbalance.",
+        "common_symptoms": [
+            "severe nausea",
+            "persistent vomiting",
+            "weight loss",
+            "dehydration",
+            "dizziness"
+        ],
+        "possible_causes": [
+            "pregnancy hormones",
+            "multiple pregnancy",
+            "history of hyperemesis gravidarum",
+            "high hCG levels"
+        ],
+        "precautions": [
+            "Stay hydrated with small frequent sips of fluids.",
+            "Eat small, frequent meals.",
+            "Seek medical care if unable to keep fluids down.",
+            "Take prescribed medications as directed."
+        ],
+        "recommended_specialist": "Obstetrician & Gynecologist"
+    },
+    "hypertensive heart disease": {
+        "description": "Hypertensive heart disease refers to heart conditions caused by long-standing high blood pressure, which increases the workload on the heart.",
+        "common_symptoms": [
+            "shortness of breath",
+            "chest pain",
+            "fatigue",
+            "palpitations",
+            "leg swelling"
+        ],
+        "possible_causes": [
+            "chronic high blood pressure",
+            "obesity",
+            "smoking",
+            "diabetes"
+        ],
+        "precautions": [
+            "Monitor blood pressure regularly.",
+            "Reduce salt intake.",
+            "Exercise regularly.",
+            "Take prescribed blood pressure medications.",
+            "Avoid smoking."
+        ],
+        "recommended_specialist": "Cardiologist"
+    },
+    "hypoglycemia": {
+        "description": "Hypoglycemia is a condition in which blood sugar levels fall below normal, commonly affecting people with diabetes.",
+        "common_symptoms": [
+            "sweating",
+            "shaking",
+            "hunger",
+            "confusion",
+            "dizziness"
+        ],
+        "possible_causes": [
+            "too much insulin",
+            "skipping meals",
+            "intense exercise",
+            "certain medications"
+        ],
+        "precautions": [
+            "Consume a fast-acting source of glucose.",
+            "Avoid skipping meals.",
+            "Monitor blood sugar regularly.",
+            "Carry glucose tablets if advised."
+        ],
+        "recommended_specialist": "Endocrinologist"
+    },
+    "idiopathic excessive menstruation": {
+        "description": "Idiopathic excessive menstruation is abnormally heavy menstrual bleeding without an identifiable underlying cause.",
+        "common_symptoms": [
+            "heavy menstrual bleeding",
+            "prolonged periods",
+            "fatigue",
+            "passing large blood clots",
+            "anemia symptoms"
+        ],
+        "possible_causes": [
+            "unknown cause",
+            "hormonal imbalance",
+            "genetic factors",
+            "blood clotting disorders"
+        ],
+        "precautions": [
+            "Monitor menstrual flow.",
+            "Maintain adequate iron intake.",
+            "Seek medical evaluation for persistent heavy bleeding.",
+            "Take prescribed medications if recommended."
+        ],
+        "recommended_specialist": "Gynecologist"
+    },
+    "idiopathic irregular menstrual cycle": {
+        "description": "Idiopathic irregular menstrual cycle refers to unpredictable menstrual cycles without a clearly identifiable medical cause.",
+        "common_symptoms": [
+            "irregular periods",
+            "missed periods",
+            "variable cycle length",
+            "light or heavy bleeding",
+            "pelvic discomfort"
+        ],
+        "possible_causes": [
+            "unknown cause",
+            "hormonal fluctuations",
+            "stress",
+            "lifestyle changes"
+        ],
+        "precautions": [
+            "Track menstrual cycles.",
+            "Maintain a healthy lifestyle.",
+            "Manage stress.",
+            "Consult a gynecologist if irregularity persists."
+        ],
+        "recommended_specialist": "Gynecologist"
+    },
+    "idiopathic painful menstruation": {
+        "description": "Idiopathic painful menstruation, also known as primary dysmenorrhea, is menstrual pain that occurs without an underlying pelvic disease. It is caused by uterine muscle contractions during menstruation.",
+        "common_symptoms": [
+            "lower abdominal cramps",
+            "pelvic pain",
+            "lower back pain",
+            "nausea",
+            "fatigue"
+        ],
+        "possible_causes": [
+            "excess prostaglandin production",
+            "uterine contractions",
+            "hormonal changes",
+            "unknown cause"
+        ],
+        "precautions": [
+            "Apply a heating pad to the lower abdomen.",
+            "Exercise regularly.",
+            "Stay hydrated.",
+            "Take pain-relieving medications if prescribed."
+        ],
+        "recommended_specialist": "Gynecologist"
+    },
+    "infectious gastroenteritis": {
+        "description": "Infectious gastroenteritis is an infection of the stomach and intestines caused by viruses, bacteria, or parasites, resulting in diarrhea and vomiting.",
+        "common_symptoms": [
+            "diarrhea",
+            "vomiting",
+            "abdominal cramps",
+            "fever",
+            "nausea"
+        ],
+        "possible_causes": [
+            "viral infection",
+            "bacterial infection",
+            "parasitic infection",
+            "contaminated food or water"
+        ],
+        "precautions": [
+            "Drink plenty of fluids to prevent dehydration.",
+            "Wash hands frequently.",
+            "Eat freshly prepared food.",
+            "Seek medical attention if symptoms are severe."
+        ],
+        "recommended_specialist": "Gastroenterologist"
+    },
+    "injury to the arm": {
+        "description": "An injury to the arm may involve muscles, bones, joints, tendons, or ligaments due to trauma or overuse.",
+        "common_symptoms": [
+            "arm pain",
+            "swelling",
+            "bruising",
+            "difficulty moving the arm",
+            "tenderness"
+        ],
+        "possible_causes": [
+            "fall",
+            "sports injury",
+            "road accident",
+            "direct impact"
+        ],
+        "precautions": [
+            "Rest the injured arm.",
+            "Apply ice during the first 24–48 hours.",
+            "Elevate the arm if swollen.",
+            "Seek medical evaluation for severe pain or deformity."
+        ],
+        "recommended_specialist": "Orthopedic Surgeon"
+    },
+    "injury to the leg": {
+        "description": "An injury to the leg may affect muscles, bones, ligaments, tendons, or joints and can range from minor strains to fractures.",
+        "common_symptoms": [
+            "leg pain",
+            "swelling",
+            "difficulty walking",
+            "bruising",
+            "reduced range of motion"
+        ],
+        "possible_causes": [
+            "fall",
+            "sports injury",
+            "road accident",
+            "twisting injury"
+        ],
+        "precautions": [
+            "Rest the injured leg.",
+            "Apply ice packs.",
+            "Compress with an elastic bandage if appropriate.",
+            "Seek medical care if unable to bear weight."
+        ],
+        "recommended_specialist": "Orthopedic Surgeon"
+    },
+    "injury to the trunk": {
+        "description": "An injury to the trunk involves trauma to the chest, abdomen, pelvis, or back and may affect muscles, bones, or internal organs.",
+        "common_symptoms": [
+            "chest pain",
+            "abdominal pain",
+            "bruising",
+            "swelling",
+            "difficulty moving"
+        ],
+        "possible_causes": [
+            "fall",
+            "motor vehicle accident",
+            "sports injury",
+            "direct trauma"
+        ],
+        "precautions": [
+            "Rest and avoid strenuous activity.",
+            "Apply ice for minor soft tissue injuries.",
+            "Seek immediate medical attention for severe pain, breathing difficulty, or abdominal tenderness.",
+            "Follow medical advice regarding imaging or treatment."
+        ],
+        "recommended_specialist": "Trauma Surgeon"
+    },
+    "kidney stone": {
+        "description": "Kidney stones are hard deposits of minerals and salts that form inside the kidneys and can cause severe pain when passing through the urinary tract.",
+        "common_symptoms": [
+            "severe flank pain",
+            "pain during urination",
+            "blood in urine",
+            "nausea",
+            "frequent urge to urinate"
+        ],
+        "possible_causes": [
+            "dehydration",
+            "high mineral concentration in urine",
+            "high-salt diet",
+            "family history"
+        ],
+        "precautions": [
+            "Drink plenty of water daily.",
+            "Reduce salt intake.",
+            "Limit foods high in oxalates if advised.",
+            "Seek medical attention for severe pain or fever."
+        ],
+        "recommended_specialist": "Urologist"
+    },
+    "liver disease": {
+        "description": "Liver disease includes conditions that damage the liver and impair its ability to perform essential functions such as detoxification and metabolism.",
+        "common_symptoms": [
+            "fatigue",
+            "jaundice",
+            "abdominal swelling",
+            "loss of appetite",
+            "dark urine"
+        ],
+        "possible_causes": [
+            "viral hepatitis",
+            "alcohol misuse",
+            "fatty liver disease",
+            "autoimmune disorders"
+        ],
+        "precautions": [
+            "Avoid alcohol.",
+            "Maintain a healthy weight.",
+            "Take medications only as prescribed.",
+            "Receive recommended hepatitis vaccinations."
+        ],
+        "recommended_specialist": "Hepatologist"
+    },
+    "macular degeneration": {
+        "description": "Macular degeneration is an eye disease that affects the central part of the retina (macula), leading to gradual loss of central vision.",
+        "common_symptoms": [
+            "blurred central vision",
+            "difficulty reading",
+            "distorted straight lines",
+            "poor vision in dim light",
+            "blind spot in central vision"
+        ],
+        "possible_causes": [
+            "aging",
+            "genetic factors",
+            "smoking",
+            "high blood pressure"
+        ],
+        "precautions": [
+            "Have regular eye examinations.",
+            "Avoid smoking.",
+            "Eat foods rich in leafy green vegetables.",
+            "Manage blood pressure and cholesterol."
+        ],
+        "recommended_specialist": "Ophthalmologist"
+    },
+    "marijuana abuse": {
+        "description": "Marijuana abuse is the repeated use of cannabis in a way that negatively affects health, daily functioning, or relationships.",
+        "common_symptoms": [
+            "impaired concentration",
+            "memory problems",
+            "poor coordination",
+            "mood changes",
+            "reduced motivation"
+        ],
+        "possible_causes": [
+            "recreational drug use",
+            "dependence",
+            "psychological factors",
+            "social influences"
+        ],
+        "precautions": [
+            "Seek professional counseling.",
+            "Avoid recreational drug use.",
+            "Build a strong support system.",
+            "Follow treatment recommendations if diagnosed with substance use disorder."
+        ],
+        "recommended_specialist": "Psychiatrist"
+    },
+    "multiple sclerosis": {
+        "description": "Multiple sclerosis is a chronic autoimmune disease in which the immune system attacks the protective covering of nerve fibers, affecting communication between the brain and body.",
+        "common_symptoms": [
+            "vision problems",
+            "muscle weakness",
+            "numbness or tingling",
+            "difficulty walking",
+            "fatigue"
+        ],
+        "possible_causes": [
+            "autoimmune disorder",
+            "genetic susceptibility",
+            "environmental factors",
+            "viral infections"
+        ],
+        "precautions": [
+            "Take prescribed disease-modifying medications.",
+            "Exercise regularly within your limits.",
+            "Avoid excessive heat if symptoms worsen.",
+            "Attend regular neurological follow-ups."
+        ],
+        "recommended_specialist": "Neurologist"
+    },
+    "neurosis": {
+        "description": "Neurosis is a non-psychotic mental health condition characterized by excessive anxiety, emotional distress, and difficulty coping with daily life while maintaining awareness of reality.",
+        "common_symptoms": [
+            "persistent anxiety",
+            "excessive worrying",
+            "irritability",
+            "difficulty sleeping",
+            "difficulty concentrating"
+        ],
+        "possible_causes": [
+            "chronic stress",
+            "traumatic experiences",
+            "genetic predisposition",
+            "personality factors"
+        ],
+        "precautions": [
+            "Practice stress management techniques.",
+            "Maintain regular sleep habits.",
+            "Exercise regularly.",
+            "Seek professional mental health support if symptoms persist."
+        ],
+        "recommended_specialist": "Psychiatrist"
+    },
+    "noninfectious gastroenteritis": {
+        "description": "Noninfectious gastroenteritis is inflammation of the stomach and intestines caused by factors other than infections, such as medications, food intolerance, or autoimmune conditions.",
+        "common_symptoms": [
+            "abdominal pain",
+            "diarrhea",
+            "nausea",
+            "vomiting",
+            "loss of appetite"
+        ],
+        "possible_causes": [
+            "food intolerance",
+            "certain medications",
+            "autoimmune disorders",
+            "chemical irritation"
+        ],
+        "precautions": [
+            "Stay well hydrated.",
+            "Avoid foods that trigger symptoms.",
+            "Eat small, bland meals.",
+            "Consult a healthcare provider if symptoms continue."
+        ],
+        "recommended_specialist": "Gastroenterologist"
+    },
+    "nose disorder": {
+        "description": "A nose disorder refers to various conditions affecting the nose, including structural abnormalities, inflammation, infections, or chronic irritation.",
+        "common_symptoms": [
+            "nasal congestion",
+            "runny nose",
+            "nose pain",
+            "reduced sense of smell",
+            "nosebleeds"
+        ],
+        "possible_causes": [
+            "allergies",
+            "viral infections",
+            "nasal polyps",
+            "deviated nasal septum"
+        ],
+        "precautions": [
+            "Avoid exposure to allergens.",
+            "Use saline nasal sprays if recommended.",
+            "Stay hydrated.",
+            "Seek medical evaluation for persistent symptoms."
+        ],
+        "recommended_specialist": "ENT Specialist"
+    },
+    "obstructive sleep apnea (osa)": {
+        "description": "Obstructive sleep apnea is a sleep disorder in which breathing repeatedly stops and starts because the airway becomes blocked during sleep.",
+        "common_symptoms": [
+            "loud snoring",
+            "daytime sleepiness",
+            "morning headaches",
+            "gasping during sleep",
+            "poor concentration"
+        ],
+        "possible_causes": [
+            "obesity",
+            "enlarged tonsils",
+            "airway narrowing",
+            "family history"
+        ],
+        "precautions": [
+            "Maintain a healthy body weight.",
+            "Sleep on your side when possible.",
+            "Avoid alcohol before bedtime.",
+            "Use CPAP therapy if prescribed."
+        ],
+        "recommended_specialist": "Sleep Medicine Specialist"
+    },
+    "otitis externa (swimmer's ear)": {
+        "description": "Otitis externa is an infection or inflammation of the outer ear canal, commonly occurring after water becomes trapped inside the ear.",
+        "common_symptoms": [
+            "ear pain",
+            "itching in the ear",
+            "ear discharge",
+            "redness",
+            "pain when touching the ear"
+        ],
+        "possible_causes": [
+            "water trapped in the ear",
+            "bacterial infection",
+            "minor ear injuries",
+            "frequent swimming"
+        ],
+        "precautions": [
+            "Keep the ears dry.",
+            "Avoid inserting cotton swabs or objects into the ear.",
+            "Dry ears gently after swimming.",
+            "Use prescribed ear drops as directed."
+        ],
+        "recommended_specialist": "ENT Specialist"
+    },
+    "otitis media": {
+        "description": "Otitis media is an infection or inflammation of the middle ear, commonly occurring in children but also affecting adults.",
+        "common_symptoms": [
+            "ear pain",
+            "fever",
+            "reduced hearing",
+            "fluid drainage from the ear",
+            "irritability"
+        ],
+        "possible_causes": [
+            "bacterial infection",
+            "viral infection",
+            "upper respiratory infection",
+            "eustachian tube blockage"
+        ],
+        "precautions": [
+            "Complete the prescribed course of antibiotics if given.",
+            "Manage fever and pain as advised.",
+            "Avoid inserting objects into the ear.",
+            "Seek medical care if symptoms worsen or hearing decreases."
+        ],
+        "recommended_specialist": "ENT Specialist"
+    },
+    "pain after an operation": {
+        "description": "Pain after an operation is a common postoperative symptom resulting from tissue injury during surgery. It usually improves as healing progresses.",
+        "common_symptoms": [
+            "pain at the surgical site",
+            "swelling",
+            "tenderness",
+            "limited movement",
+            "mild redness around the incision"
+        ],
+        "possible_causes": [
+            "normal surgical healing",
+            "inflammation",
+            "muscle injury during surgery",
+            "postoperative complications"
+        ],
+        "precautions": [
+            "Take pain medications as prescribed.",
+            "Keep the surgical wound clean.",
+            "Avoid strenuous activities until cleared by your surgeon.",
+            "Report increasing pain, fever, or wound discharge immediately."
+        ],
+        "recommended_specialist": "General Surgeon"
+    },
+    "panic disorder": {
+        "description": "Panic disorder is a mental health condition characterized by repeated, unexpected panic attacks accompanied by intense fear and physical symptoms.",
+        "common_symptoms": [
+            "sudden intense fear",
+            "rapid heartbeat",
+            "shortness of breath",
+            "chest discomfort",
+            "dizziness"
+        ],
+        "possible_causes": [
+            "genetic predisposition",
+            "stress",
+            "brain chemistry imbalance",
+            "history of anxiety disorders"
+        ],
+        "precautions": [
+            "Seek professional mental health care.",
+            "Practice relaxation and breathing exercises.",
+            "Avoid excessive caffeine and recreational drugs.",
+            "Take prescribed medications regularly if advised."
+        ],
+        "recommended_specialist": "Psychiatrist"
+    },
+    "pelvic inflammatory disease": {
+        "description": "Pelvic inflammatory disease (PID) is an infection of the female reproductive organs, usually caused by sexually transmitted bacteria.",
+        "common_symptoms": [
+            "lower abdominal pain",
+            "fever",
+            "abnormal vaginal discharge",
+            "pain during intercourse",
+            "painful urination"
+        ],
+        "possible_causes": [
+            "sexually transmitted infections",
+            "untreated bacterial infections",
+            "multiple sexual partners",
+            "post-procedure infection"
+        ],
+        "precautions": [
+            "Complete all prescribed antibiotics.",
+            "Practice safe sex.",
+            "Seek early medical treatment.",
+            "Avoid sexual activity until treatment is completed if advised."
+        ],
+        "recommended_specialist": "Gynecologist"
+    },
+    "peripheral nerve disorder": {
+        "description": "Peripheral nerve disorders affect nerves outside the brain and spinal cord, causing weakness, numbness, or pain, usually in the hands or feet.",
+        "common_symptoms": [
+            "numbness",
+            "tingling",
+            "burning pain",
+            "muscle weakness",
+            "loss of coordination"
+        ],
+        "possible_causes": [
+            "diabetes",
+            "nerve injury",
+            "vitamin deficiencies",
+            "autoimmune diseases"
+        ],
+        "precautions": [
+            "Control underlying medical conditions such as diabetes.",
+            "Avoid repetitive nerve injuries.",
+            "Follow prescribed physical therapy.",
+            "Take medications as directed."
+        ],
+        "recommended_specialist": "Neurologist"
+    },
+    "personality disorder": {
+        "description": "A personality disorder is a mental health condition characterized by long-term patterns of thinking, feeling, and behaving that differ significantly from cultural expectations and interfere with daily life and relationships.",
+        "common_symptoms": [
+            "difficulty maintaining relationships",
+            "unstable emotions",
+            "impulsive behavior",
+            "distorted self-image",
+            "difficulty managing emotions"
+        ],
+        "possible_causes": [
+            "genetic factors",
+            "childhood trauma",
+            "environmental influences",
+            "brain structure and function"
+        ],
+        "precautions": [
+            "Seek regular psychotherapy.",
+            "Take prescribed medications if recommended.",
+            "Avoid alcohol and recreational drugs.",
+            "Maintain regular follow-up with a mental health professional."
+        ],
+        "recommended_specialist": "Psychiatrist"
+    },
+    "pneumonia": {
+        "description": "Pneumonia is an infection that inflames the air sacs in one or both lungs, which may fill with fluid or pus, making breathing difficult.",
+        "common_symptoms": [
+            "cough with phlegm",
+            "fever",
+            "shortness of breath",
+            "chest pain",
+            "fatigue"
+        ],
+        "possible_causes": [
+            "bacterial infection",
+            "viral infection",
+            "fungal infection",
+            "weakened immune system"
+        ],
+        "precautions": [
+            "Complete the prescribed antibiotics or antiviral medications.",
+            "Drink plenty of fluids.",
+            "Get adequate rest.",
+            "Seek immediate medical care if breathing becomes difficult."
+        ],
+        "recommended_specialist": "Pulmonologist"
+    },
+    "problem during pregnancy": {
+        "description": "Problems during pregnancy include medical conditions or complications that may affect the health of the mother or the developing baby.",
+        "common_symptoms": [
+            "abdominal pain",
+            "vaginal bleeding",
+            "severe headache",
+            "swelling",
+            "reduced fetal movement"
+        ],
+        "possible_causes": [
+            "pregnancy complications",
+            "high blood pressure",
+            "gestational diabetes",
+            "placental problems"
+        ],
+        "precautions": [
+            "Attend all prenatal check-ups.",
+            "Eat a balanced diet.",
+            "Take prenatal vitamins as prescribed.",
+            "Seek immediate medical attention for heavy bleeding or severe pain."
+        ],
+        "recommended_specialist": "Obstetrician & Gynecologist"
+    },
+    "psoriasis": {
+        "description": "Psoriasis is a chronic autoimmune skin disease that causes rapid skin cell buildup, resulting in thick, scaly patches.",
+        "common_symptoms": [
+            "red patches of skin",
+            "silvery scales",
+            "itching",
+            "dry cracked skin",
+            "joint pain"
+        ],
+        "possible_causes": [
+            "autoimmune disorder",
+            "genetic predisposition",
+            "stress",
+            "skin injury"
+        ],
+        "precautions": [
+            "Keep the skin moisturized.",
+            "Avoid known triggers such as stress and smoking.",
+            "Use prescribed topical or systemic medications.",
+            "Attend regular dermatology follow-ups."
+        ],
+        "recommended_specialist": "Dermatologist"
+    },
+    "psychotic disorder": {
+        "description": "Psychotic disorders are serious mental health conditions that affect a person's perception of reality, potentially causing hallucinations or delusions.",
+        "common_symptoms": [
+            "hallucinations",
+            "delusions",
+            "disorganized thinking",
+            "confused speech",
+            "social withdrawal"
+        ],
+        "possible_causes": [
+            "genetic predisposition",
+            "brain disorders",
+            "substance abuse",
+            "severe mental illness"
+        ],
+        "precautions": [
+            "Seek immediate psychiatric evaluation.",
+            "Take medications exactly as prescribed.",
+            "Maintain regular follow-up appointments.",
+            "Avoid alcohol and recreational drugs."
+        ],
+        "recommended_specialist": "Psychiatrist"
+    },
+    "pyelonephritis": {
+        "description": "Pyelonephritis is a bacterial infection of one or both kidneys. It usually develops when a urinary tract infection spreads to the kidneys.",
+        "common_symptoms": [
+            "fever",
+            "flank pain",
+            "painful urination",
+            "frequent urination",
+            "nausea"
+        ],
+        "possible_causes": [
+            "bacterial urinary tract infection",
+            "kidney stones",
+            "urinary tract obstruction",
+            "weakened immune system"
+        ],
+        "precautions": [
+            "Complete the full course of prescribed antibiotics.",
+            "Drink plenty of fluids.",
+            "Do not delay treatment for urinary symptoms.",
+            "Seek immediate medical attention for high fever or severe pain."
+        ],
+        "recommended_specialist": "Nephrologist"
+    },
+    "pyogenic skin infection": {
+        "description": "A pyogenic skin infection is a bacterial infection of the skin that leads to pus formation. Common examples include boils, abscesses, and cellulitis.",
+        "common_symptoms": [
+            "red swollen skin",
+            "pain",
+            "pus-filled lesions",
+            "warmth over the affected area",
+            "fever"
+        ],
+        "possible_causes": [
+            "Staphylococcus infection",
+            "Streptococcus infection",
+            "skin injury",
+            "poor hygiene"
+        ],
+        "precautions": [
+            "Keep the affected area clean and dry.",
+            "Avoid squeezing boils or abscesses.",
+            "Take antibiotics as prescribed.",
+            "Wash hands regularly."
+        ],
+        "recommended_specialist": "Dermatologist"
+    },
+    "rectal disorder": {
+        "description": "Rectal disorders include conditions affecting the rectum, such as inflammation, fissures, prolapse, or other abnormalities causing pain or bleeding.",
+        "common_symptoms": [
+            "rectal pain",
+            "rectal bleeding",
+            "pain during bowel movements",
+            "itching",
+            "discomfort while sitting"
+        ],
+        "possible_causes": [
+            "anal fissure",
+            "infection",
+            "inflammatory bowel disease",
+            "constipation"
+        ],
+        "precautions": [
+            "Eat a high-fiber diet.",
+            "Drink plenty of water.",
+            "Avoid straining during bowel movements.",
+            "Seek medical evaluation for persistent bleeding."
+        ],
+        "recommended_specialist": "Colorectal Surgeon"
+    },
+    "seasonal allergies (hay fever)": {
+        "description": "Seasonal allergies, also called hay fever, are allergic reactions to airborne allergens such as pollen, leading to inflammation of the nose and eyes.",
+        "common_symptoms": [
+            "sneezing",
+            "runny nose",
+            "nasal congestion",
+            "itchy eyes",
+            "watery eyes"
+        ],
+        "possible_causes": [
+            "tree pollen",
+            "grass pollen",
+            "weed pollen",
+            "mold spores"
+        ],
+        "precautions": [
+            "Avoid outdoor exposure during high pollen counts.",
+            "Keep windows closed during allergy season.",
+            "Shower after outdoor activities.",
+            "Take prescribed antihistamines if needed."
+        ],
+        "recommended_specialist": "Allergist"
+    },
+    "sebaceous cyst": {
+        "description": "A sebaceous cyst is a slow-growing, noncancerous lump beneath the skin filled with keratin or oily material. It commonly occurs on the scalp, face, neck, or back.",
+        "common_symptoms": [
+            "round skin lump",
+            "slow-growing swelling",
+            "mild tenderness",
+            "redness if infected",
+            "drainage of foul-smelling material"
+        ],
+        "possible_causes": [
+            "blocked sebaceous gland",
+            "skin trauma",
+            "damaged hair follicle",
+            "genetic conditions"
+        ],
+        "precautions": [
+            "Do not squeeze or puncture the cyst.",
+            "Keep the area clean.",
+            "Seek medical care if the cyst becomes painful or infected.",
+            "Follow medical advice if surgical removal is recommended."
+        ],
+        "recommended_specialist": "Dermatologist"
+    },
+    "sepsis": {
+        "description": "Sepsis is a life-threatening condition that occurs when the body's response to an infection damages its own tissues and organs. It requires immediate medical treatment.",
+        "common_symptoms": [
+            "high fever or low body temperature",
+            "rapid heart rate",
+            "rapid breathing",
+            "confusion",
+            "extreme weakness"
+        ],
+        "possible_causes": [
+            "bacterial infection",
+            "pneumonia",
+            "urinary tract infection",
+            "bloodstream infection"
+        ],
+        "precautions": [
+            "Seek emergency medical care immediately.",
+            "Complete all prescribed antibiotics.",
+            "Treat infections promptly.",
+            "Maintain good hygiene and wound care."
+        ],
+        "recommended_specialist": "Critical Care Specialist"
+    },
+    "sickle cell crisis": {
+        "description": "A sickle cell crisis is a painful episode in people with sickle cell disease caused by blockage of blood flow due to sickle-shaped red blood cells.",
+        "common_symptoms": [
+            "severe bone pain",
+            "joint pain",
+            "chest pain",
+            "fatigue",
+            "swelling of hands and feet"
+        ],
+        "possible_causes": [
+            "dehydration",
+            "infection",
+            "cold exposure",
+            "stress"
+        ],
+        "precautions": [
+            "Stay well hydrated.",
+            "Avoid extreme temperatures.",
+            "Take prescribed medications regularly.",
+            "Seek emergency care for severe pain or breathing difficulty."
+        ],
+        "recommended_specialist": "Hematologist"
+    },
+    "sinus bradycardia": {
+        "description": "Sinus bradycardia is a slower-than-normal heart rate originating from the heart's natural pacemaker. It may be normal in healthy individuals or indicate an underlying heart condition.",
+        "common_symptoms": [
+            "fatigue",
+            "dizziness",
+            "fainting",
+            "shortness of breath",
+            "chest discomfort"
+        ],
+        "possible_causes": [
+            "aging",
+            "heart disease",
+            "certain medications",
+            "high physical fitness"
+        ],
+        "precautions": [
+            "Attend regular cardiology follow-ups.",
+            "Take medications only as prescribed.",
+            "Seek medical attention for fainting or chest pain.",
+            "Maintain a heart-healthy lifestyle."
+        ],
+        "recommended_specialist": "Cardiologist"
+    },
+    "skin pigmentation disorder": {
+        "description": "Skin pigmentation disorders are conditions that cause the skin to become lighter, darker, or uneven in color due to changes in melanin production.",
+        "common_symptoms": [
+            "dark patches",
+            "light patches",
+            "uneven skin tone",
+            "skin discoloration",
+            "patchy pigmentation"
+        ],
+        "possible_causes": [
+            "sun exposure",
+            "hormonal changes",
+            "autoimmune disorders",
+            "skin inflammation"
+        ],
+        "precautions": [
+            "Use sunscreen daily.",
+            "Avoid excessive sun exposure.",
+            "Follow dermatologist-recommended treatments.",
+            "Avoid skin irritants."
+        ],
+        "recommended_specialist": "Dermatologist"
+    },
+    "spinal stenosis": {
+        "description": "Spinal stenosis is the narrowing of spaces within the spine, putting pressure on the spinal cord or nerves and causing pain or numbness.",
+        "common_symptoms": [
+            "back pain",
+            "leg pain",
+            "numbness",
+            "muscle weakness",
+            "difficulty walking"
+        ],
+        "possible_causes": [
+            "aging",
+            "arthritis",
+            "herniated disc",
+            "thickened spinal ligaments"
+        ],
+        "precautions": [
+            "Perform doctor-approved stretching exercises.",
+            "Maintain good posture.",
+            "Avoid heavy lifting.",
+            "Attend physical therapy if recommended."
+        ],
+        "recommended_specialist": "Orthopedic Spine Surgeon"
+    },
+    "spondylosis": {
+        "description": "Spondylosis is an age-related degenerative condition affecting the spine, including the vertebrae and intervertebral discs, which may lead to neck or back pain and stiffness.",
+        "common_symptoms": [
+            "neck pain",
+            "back pain",
+            "stiffness",
+            "numbness in arms or legs",
+            "reduced range of motion"
+        ],
+        "possible_causes": [
+            "aging",
+            "degenerative disc disease",
+            "bone spurs",
+            "previous spinal injury"
+        ],
+        "precautions": [
+            "Maintain good posture.",
+            "Perform regular stretching and strengthening exercises.",
+            "Avoid prolonged sitting.",
+            "Consult a doctor if pain or numbness worsens."
+        ],
+        "recommended_specialist": "Orthopedic Spine Surgeon"
+    },
+    "spontaneous abortion": {
+        "description": "Spontaneous abortion, commonly known as miscarriage, is the natural loss of a pregnancy before the fetus is viable. It requires prompt medical evaluation.",
+        "common_symptoms": [
+            "vaginal bleeding",
+            "abdominal cramps",
+            "lower back pain",
+            "passing tissue",
+            "loss of pregnancy symptoms"
+        ],
+        "possible_causes": [
+            "chromosomal abnormalities",
+            "hormonal disorders",
+            "uterine abnormalities",
+            "maternal infections"
+        ],
+        "precautions": [
+            "Seek immediate medical care.",
+            "Avoid strenuous physical activity until evaluated.",
+            "Attend all follow-up appointments.",
+            "Follow your healthcare provider's recommendations."
+        ],
+        "recommended_specialist": "Obstetrician & Gynecologist"
+    },
+    "sprain or strain": {
+        "description": "A sprain is the stretching or tearing of ligaments, while a strain involves muscles or tendons. Both commonly occur after sudden twisting or overuse.",
+        "common_symptoms": [
+            "pain",
+            "swelling",
+            "bruising",
+            "limited movement",
+            "muscle weakness"
+        ],
+        "possible_causes": [
+            "sports injury",
+            "fall",
+            "twisting movement",
+            "overuse"
+        ],
+        "precautions": [
+            "Rest the injured area.",
+            "Apply ice packs.",
+            "Use compression and elevation.",
+            "Seek medical evaluation if severe pain or inability to move persists."
+        ],
+        "recommended_specialist": "Orthopedic Surgeon"
+    },
+    "strep throat": {
+        "description": "Strep throat is a bacterial infection of the throat caused by Group A Streptococcus bacteria, leading to sore throat and fever.",
+        "common_symptoms": [
+            "severe sore throat",
+            "fever",
+            "pain while swallowing",
+            "swollen lymph nodes",
+            "red swollen tonsils"
+        ],
+        "possible_causes": [
+            "Group A Streptococcus infection",
+            "close contact with infected individuals"
+        ],
+        "precautions": [
+            "Complete the full course of prescribed antibiotics.",
+            "Wash hands frequently.",
+            "Avoid sharing utensils.",
+            "Stay home until no longer contagious as advised."
+        ],
+        "recommended_specialist": "ENT Specialist"
+    },
+    "stye": {
+        "description": "A stye is a painful, red lump near the edge of the eyelid caused by a bacterial infection of an eyelid gland.",
+        "common_symptoms": [
+            "painful eyelid lump",
+            "eyelid swelling",
+            "redness",
+            "watery eyes",
+            "tenderness"
+        ],
+        "possible_causes": [
+            "bacterial infection",
+            "blocked oil gland",
+            "poor eyelid hygiene",
+            "touching the eyes with unclean hands"
+        ],
+        "precautions": [
+            "Apply warm compresses several times a day.",
+            "Avoid squeezing the stye.",
+            "Keep the eyelids clean.",
+            "Avoid wearing contact lenses or eye makeup until healed."
+        ],
+        "recommended_specialist": "Ophthalmologist"
+    },
+    "threatened pregnancy": {
+        "description": "Threatened pregnancy refers to vaginal bleeding during early pregnancy while the cervix remains closed and the pregnancy may still continue normally. It requires prompt medical evaluation.",
+        "common_symptoms": [
+            "vaginal bleeding",
+            "lower abdominal cramps",
+            "back pain",
+            "pelvic discomfort",
+            "mild uterine contractions"
+        ],
+        "possible_causes": [
+            "hormonal changes",
+            "implantation issues",
+            "placental problems",
+            "unknown causes"
+        ],
+        "precautions": [
+            "Seek immediate medical evaluation.",
+            "Avoid strenuous physical activity unless advised otherwise.",
+            "Attend all prenatal appointments.",
+            "Follow your healthcare provider's recommendations."
+        ],
+        "recommended_specialist": "Obstetrician & Gynecologist"
+    },
+    "urinary tract infection": {
+        "description": "A urinary tract infection (UTI) is a bacterial infection affecting any part of the urinary system, most commonly the bladder and urethra.",
+        "common_symptoms": [
+            "burning during urination",
+            "frequent urination",
+            "urgent need to urinate",
+            "cloudy urine",
+            "lower abdominal pain"
+        ],
+        "possible_causes": [
+            "bacterial infection",
+            "poor hygiene",
+            "urinary tract obstruction",
+            "sexual activity"
+        ],
+        "precautions": [
+            "Drink plenty of water.",
+            "Complete the prescribed antibiotic course.",
+            "Maintain good personal hygiene.",
+            "Do not delay urination."
+        ],
+        "recommended_specialist": "Urologist"
+    },
+    "vaginal cyst": {
+        "description": "A vaginal cyst is a fluid-filled sac that develops on or beneath the vaginal lining. Most are benign and may not require treatment unless they become painful or infected.",
+        "common_symptoms": [
+            "small vaginal lump",
+            "pelvic discomfort",
+            "pain during intercourse",
+            "swelling",
+            "tenderness if infected"
+        ],
+        "possible_causes": [
+            "blocked glands",
+            "birth injury",
+            "infection",
+            "trauma"
+        ],
+        "precautions": [
+            "Maintain good intimate hygiene.",
+            "Avoid squeezing or attempting to drain the cyst.",
+            "Seek medical evaluation if it enlarges or becomes painful.",
+            "Follow prescribed treatment if infection develops."
+        ],
+        "recommended_specialist": "Gynecologist"
+    },
+    "vaginitis": {
+        "description": "Vaginitis is inflammation of the vagina caused by infections, irritation, or changes in the normal balance of vaginal bacteria or yeast.",
+        "common_symptoms": [
+            "abnormal vaginal discharge",
+            "itching",
+            "burning sensation",
+            "pain during urination",
+            "unpleasant odor"
+        ],
+        "possible_causes": [
+            "bacterial vaginosis",
+            "yeast infection",
+            "trichomoniasis",
+            "allergic reactions"
+        ],
+        "precautions": [
+            "Maintain proper intimate hygiene.",
+            "Avoid scented hygiene products.",
+            "Wear breathable cotton underwear.",
+            "Complete prescribed medications."
+        ],
+        "recommended_specialist": "Gynecologist"
+    },
+    "vulvodynia": {
+        "description": "Vulvodynia is chronic pain or discomfort of the vulva lasting for at least three months without an identifiable cause.",
+        "common_symptoms": [
+            "burning pain",
+            "stinging sensation",
+            "soreness",
+            "pain during sitting",
+            "pain during sexual intercourse"
+        ],
+        "possible_causes": [
+            "nerve injury",
+            "muscle spasms",
+            "hormonal factors",
+            "unknown causes"
+        ],
+        "precautions": [
+            "Wear loose-fitting cotton clothing.",
+            "Avoid scented soaps and irritants.",
+            "Follow prescribed treatment plans.",
+            "Consult a specialist for persistent symptoms."
+        ],
+        "recommended_specialist": "Gynecologist"
+    }
+}

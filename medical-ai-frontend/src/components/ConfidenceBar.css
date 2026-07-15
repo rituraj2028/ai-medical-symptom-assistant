@@ -1,0 +1,25 @@
+.confidence-container{
+    margin-top:20px;
+}
+
+.confidence-header{
+    display:flex;
+    justify-content:space-between;
+    font-weight:600;
+    margin-bottom:8px;
+}
+
+.progress-bar{
+    width:100%;
+    height:14px;
+    background:#e5e7eb;
+    border-radius:20px;
+    overflow:hidden;
+}
+
+.progress-fill{
+    height:100%;
+    background:#0f766e;
+    border-radius:20px;
+    transition:width .8s ease;
+}

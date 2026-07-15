@@ -1,0 +1,45 @@
+.disease-info{
+
+    margin-top:30px;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:18px;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+
+    text-align:left;
+
+}
+
+.disease-info h2{
+
+    margin-bottom:20px;
+
+    color:#0f766e;
+
+}
+
+.disease-info h3{
+
+    margin-top:20px;
+
+    color:#374151;
+
+}
+
+.disease-info ul{
+
+    margin-left:20px;
+
+    margin-top:10px;
+
+}
+
+.disease-info li{
+
+    margin:8px 0;
+
+}

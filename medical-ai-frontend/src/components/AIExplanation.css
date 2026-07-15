@@ -1,0 +1,31 @@
+.ai-card{
+
+    margin-top:30px;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:18px;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+
+}
+
+.ai-card h2{
+
+    color:#0f766e;
+
+    margin-bottom:20px;
+
+}
+
+.ai-text{
+
+    line-height:1.8;
+
+    white-space:pre-wrap;
+
+    color:#374151;
+
+}

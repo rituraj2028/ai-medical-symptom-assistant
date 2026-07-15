@@ -1,0 +1,179 @@
+.chat-card{
+
+    margin-top:30px;
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:30px;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+
+}
+
+.chat-card h2{
+
+    color:#28635f;
+
+    margin-bottom:20px;
+
+}
+
+.messages{
+
+    max-height:400px;
+
+    overflow-y:auto;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:15px;
+
+    margin-bottom:20px;
+
+    padding-right:5px;
+
+    
+
+}
+
+.user{
+
+    align-self:flex-end;
+
+    background:#dbeafe;
+
+    color:#1e3a8a;
+
+    padding:15px;
+
+    border-radius:15px 15px 0 15px;
+
+    max-width:75%;
+
+    word-wrap:break-word;
+
+}
+
+.ai{
+
+    align-self:flex-start;
+
+    background:#f3f4f6;
+
+    color:#111827;
+
+    padding:15px;
+
+    border-radius:15px 15px 15px 0;
+
+    max-width:75%;
+
+    word-wrap:break-word;
+
+}
+
+.user strong,
+.ai strong{
+
+    display:block;
+
+    margin-bottom:8px;
+
+    font-size:14px;
+    opacity: 0.8;
+
+}
+
+.user p,
+.ai p{
+
+    margin:0;
+
+    line-height:1.6;
+
+}
+
+.chat-card input{
+
+    width:100%;
+
+    padding:14px;
+
+    border:1px solid #d1d5db;
+
+    border-radius:12px;
+
+    font-size:16px;
+
+    outline:none;
+
+    margin-bottom:15px;
+
+    box-sizing:border-box;
+
+}
+
+.chat-card input:focus{
+
+    border-color:#0f766e;
+
+    box-shadow:0 0 0 3px rgba(15,118,110,.15);
+
+}
+
+.chat-card button{
+
+    width:100%;
+
+    padding:14px;
+
+    background:#0f766e;
+
+    color:white;
+
+    border:none;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+    font-size:16px;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.chat-card button:hover{
+
+    background:#115e59;
+
+}
+
+.chat-card button:disabled{
+
+    background:#9ca3af;
+
+    cursor:not-allowed;
+
+}
+.clear-btn{
+    margin-top: 12px;
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 12px;
+    background: #ef4444;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: .3s;
+}
+.clear-btn:hover{
+    background: #dc2626;
+}

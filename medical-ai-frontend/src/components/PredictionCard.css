@@ -1,0 +1,35 @@
+.prediction-card{
+
+    margin-top:40px;
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:30px;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+
+    text-align:center;
+
+}
+
+.prediction-card h1{
+
+    color:#0f766e;
+
+    margin:15px 0;
+
+}
+
+.prediction-card h2{
+
+    color:#374151;
+
+}
+
+.prediction-card p{
+
+    font-size:18px;
+
+}
