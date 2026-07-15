@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState} from "react";
 import api from "../services/api";
 import "./AIChat.css";
 
@@ -7,13 +7,9 @@ function AIChat({ disease }) {
     const [question, setQuestion] = useState("");
     const [messages, setMessages] = useState([]);
     const [loading, setLoading] = useState(false);
-    const messageEndRef = useRef(null);
+    
 
-    useEffect(() => {
-        messagesEndRef.current?.scrollIntoView({
-            behaviour:"smooth"
-        });
-    },[messages]);
+    
     
 
     const askAI = async () => {
@@ -89,7 +85,7 @@ function AIChat({ disease }) {
                     </div>
 
                 ))}
-                <div ref={messageEndRef}></div>
+                
 
             </div>
 
