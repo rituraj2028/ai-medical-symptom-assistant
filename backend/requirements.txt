@@ -8,3 +8,5 @@ scikit-learn
 tensorflow
 python-multipart
 pydantic
+gorq
+python-dotenv
