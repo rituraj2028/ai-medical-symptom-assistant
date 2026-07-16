@@ -139,8 +139,9 @@ pip install -r requirements.txt
 ```
 
 Create a `.env`
-
 ```
+Create ur api key on GROQ
+GROQ_API_KEY = YOUR_API_KEY u created on GROQ
 ```
 
 Run
@@ -202,7 +203,7 @@ Algorithms experimented:
 The Deep Neural Network achieved the best overall performance and was selected as the production model.
 
 
-# 🌐 Deployment
+# Deployment
 
 Frontend
 
